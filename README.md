@@ -2,4 +2,5 @@ Supplementary data to replicate analyses in "Morphological specialization to nec
 
 This repository contains the following element:
 
-LM_Batskulls.cvs: Dataframe containing all linear measurements from bat skulls (10 spp.)
+LM_Batskulls.csv: Dataframe containing all linear measurements of bat skulls (10 spp.) (210 individuals)
+LM_Batskulls_Sample.csv: Dataframe containing all linear measurements of seven bat skulls per species (10 spp.) (70 individuals)
